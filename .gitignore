@@ -1,6 +1,5 @@
 #忽略配置和缓存文件
-caches/*
-caches/error_log.php
+caches/
 #忽略sso下得配置缓存文件
 phpsso_server/caches/*
 #忽略附件目录
